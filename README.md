@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Anna 👋
+
+👩‍🎓 I graduated MSU, department in 2011. Got Masters degree in Psychology.
+👋 I have been working as IT Headhunter for 12 years. Including Huawei, Samsung, Deutsche Bank etc. I headhunted Samsung AI Center Moscow team ( 4 ML/AI Labs, with Leaders etc)
+⚡ I received HR Brand award in 2018 (Samsung Ai Center headhunting)
+I'm Ladies in Tech and AI community founder and organised 1 conference and 4 meetups related to AI, ML, DL, BlockChain, Defi etc.
+I'm blogging about tech career, career in Tech and AI, Machine learning etc.
+I started to participate at Kaggle competitions this year and learnt a bit ML, DL, Computer Vision etc.
+My core basic tech skills are: Python, Pytorch, Tensorflow, Keras, ML, DL, Computer Vision etc.
+
+ 📫 How to reach me: 
+ Telegram: @funcareer
+
+
 -->
