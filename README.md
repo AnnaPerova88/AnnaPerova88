@@ -3,9 +3,7 @@
 <!--
 **AnnaPerova88/AnnaPerova88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<H1> Here are some ideas to get you started: </H1>
-
-Hi, I'm Anna 👋
+###  Hi, I'm Anna 👋
 
 👩‍🎓 I graduated MSU, department in 2011. Got Masters degree in Psychology.
 👋 I have been working as IT Headhunter for 12 years. Including Huawei, Samsung, Deutsche Bank etc. I headhunted Samsung AI Center Moscow team ( 4 ML/AI Labs, with Leaders etc)
@@ -15,7 +13,7 @@ I'm blogging about tech career, career in Tech and AI, Machine learning etc.
 I started to participate at Kaggle competitions this year and learnt a bit ML, DL, Computer Vision etc.
 My core basic tech skills are: Python, Pytorch, Tensorflow, Keras, ML, DL, Computer Vision etc.
 
- 📫 How to reach me: 
+ ### 📫 How to reach me: 
  Telegram: @funcareer
 
 
