@@ -4,6 +4,8 @@
 I'm blogging about tech career, career in Tech and AI, Machine learning etc. I've started to participate at Kaggle competitions this year and learnt a bit ML, DL, Computer Vision etc. My core basic tech skills are: **Python, Pytorch, Tensorflow, Keras, ML, DL, Computer Vision etc.**
 
 📫 How to reach me: 
- Telegram: @funcareer
+Telegram: @funcareer
+Twitter:  https://twitter.com/AnnaPerova88
+Kaggle: https://www.kaggle.com/mlsputnik
 
 
