@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnnaPerova88/AnnaPerova88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###  Hi, I'm Anna 👋
 
 👩‍🎓 I graduated MSU, department in 2011. Got Masters degree in Psychology.
@@ -17,4 +14,3 @@ My core basic tech skills are: Python, Pytorch, Tensorflow, Keras, ML, DL, Compu
  Telegram: @funcareer
 
 
--->
