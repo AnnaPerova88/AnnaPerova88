@@ -1,8 +1,8 @@
 ###  Hi there, I'm Anna 👋
 
 #### 👩‍🎓 I study Mathematics & Applied Informatics in MEPHI, my specialization is: Data Science & Machine Learning, Masters degree, 2024-2026.
-#### 👩‍🎓 I graduated **Moscow State University**, Masters Degree, Psychology department in 2011. Got Masters degree in Psychology. 
 #### 👩‍🎓 I practice ML & DL during 1+ years using Kaggle platform. I've learnt a bit ML, DL, Computer Vision etc.
+#### 👩‍🎓 I graduated **Moscow State University**, Masters Degree, Psychology department in 2011. Got Masters degree in Psychology. 
 #### 👩‍🎓 Graduated Js course ( Bauman State Inst.) in 2018.
 
 #### ⚡ I have been working as **IT Headhunter** for **12 years**. Including **Huawei, Samsung, Deutsche Bank etc.
