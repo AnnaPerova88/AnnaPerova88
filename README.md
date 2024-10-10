@@ -19,5 +19,7 @@
 
 #### Twitter:  https://twitter.com/AnnaPerova88
 
+My updated CV:  https://github.com/AnnaPerova88/resume
+
 
 
