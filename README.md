@@ -15,7 +15,7 @@
 
 #### LinkedIN: https://www.linkedin.com/in/annaperova/
 #### Kaggle: https://www.kaggle.com/mlsputnik
-#### Telegram: @funcareer
+#### Telegram: @PerovaAN2025
 
 #### Twitter:  https://twitter.com/AnnaPerova88
 
