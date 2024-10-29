@@ -16,7 +16,7 @@
 #### LinkedIN: https://www.linkedin.com/in/annaperova/
 #### Kaggle: https://www.kaggle.com/mlsputnik
 #### Telegram: @PerovaAN2025
-
+#### Stepik platform: https://stepik.org/users/32694555/profile
 #### Twitter:  https://twitter.com/AnnaPerova88
 
 My updated CV:  https://github.com/AnnaPerova88/resume
