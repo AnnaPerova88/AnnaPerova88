@@ -1,6 +1,6 @@
 ###  Hi there, I'm Anna 👋
 
-#### 👩‍🎓 I study Mathematics & Applied Informatics in MEPHI, my specialization is: Data Science & Machine Learning, Masters degree, 2024-2026.
+#### 👩‍🎓 I study Applied Mathematics & Informatics in MEPHI, my specialization is: Data Science & Machine Learning, Masters degree, 2024-2026.
 #### 👩‍🎓 I practice ML & DL during 1+ years using Kaggle platform. I've learnt a bit ML, DL, Computer Vision etc.
 #### 👩‍🎓 Graduated Js course ( Bauman State Inst.) in 2018.
 
