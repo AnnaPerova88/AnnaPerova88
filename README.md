@@ -5,6 +5,7 @@
 #### 👩‍🎓 2025 - Internship at AIRI Research Institute in 2025 - Medical Data Analysis (Lung Cancer recognition, Data Engineering, LLM, Qwen)
 #### 👩‍🎓 2018 - Graduated 2 Js courses - Beginner + Intermediate ( Bauman State Inst.) 
 #### 👩‍🎓 2009 - Graduated HTML & CSS course ( Bauman State Inst.) 
+#### 👩‍🎓 2005-2008 - HTML & CSS course, HTML/CSS, JS - sites& forum development
 
 ###  Extra info about me: 
 #### 👩‍🎓 I graduated **Moscow State University**, Masters Degree, Psychology department in 2011. Got Masters degree in Psychology. 
