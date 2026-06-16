@@ -1,9 +1,10 @@
 ###  Hi there, I'm Anna 👋
 
-#### 👩‍🎓 I study Applied Mathematics & Informatics in MEPHI, my specialization is: Data Science & Machine Learning, Masters degree, 2024-2026.
-#### 👩‍🎓 I practice ML & DL during 1+ years using Kaggle platform. I've learnt a bit ML, DL, Computer Vision etc.
-#### 👩‍🎓 Graduated 2 Js courses - Beginner + Intermediate ( Bauman State Inst.) in 2018
-#### 👩‍🎓 Graduated HTML & CSS course ( Bauman State Inst.) in 2009
+#### 👩‍🎓 2024-2026 MEPHI Masters Degree, Applied Mathematics & Informatics, specialization: Data Science & Machine Learning, GEN AI 
+#### 👩‍🎓 2023 - 2026 ML & DL - AIRI Research Institute, Kaggle platform
+#### 👩‍🎓 2025 - Internship at AIRI Research Institute in 2025 - Medical Data Analysis (Lung Cancer recognition, Data Engineering, LLM, Qwen)
+#### 👩‍🎓 2018 - Graduated 2 Js courses - Beginner + Intermediate ( Bauman State Inst.) 
+#### 👩‍🎓 2009 - Graduated HTML & CSS course ( Bauman State Inst.) 
 
 ###  Extra info about me: 
 #### 👩‍🎓 I graduated **Moscow State University**, Masters Degree, Psychology department in 2011. Got Masters degree in Psychology. 
