@@ -1,5 +1,7 @@
 ###  Hi there, I'm Anna 👋
 
+#### ML Engineer | Computer Vision | NLP | LLM | 17 years in IT & AI Recruiting | Helping companies build AI teams and helping ML Engineers get offers.
+
 #### 👩‍🎓 2024-2026 MEPHI Masters Degree, Applied Mathematics & Informatics, specialization: Data Science & Machine Learning, GEN AI 
 #### 👩‍🎓 2023 - 2026 ML & DL - AIRI Research Institute Internship, Kaggle platform ML practice
 #### 👩‍🎓 2025 - Internship at AIRI Research Institute in 2025 - Medical Data Analysis (Lung Cancer recognition, Data Engineering, LLM, Qwen)
